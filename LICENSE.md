@@ -24,7 +24,7 @@ You **may not**:
 - Include these tools in commercial software packages
 - Offer these tools as part of paid services
 
-For commercial licensing or partnerships, contact **Zeeteck** at [your contact email].
+For commercial licensing or partnerships, contact **Zeeteck** at cfteckschool@gmail.com.
 
 ## 3. No Warranty
 
