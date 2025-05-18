@@ -63,3 +63,6 @@ Stay connected for new releases and updates:
 GitHub: https://github.com/Zeeteck/Exel-Apps
 
 YouTube Channel https://www.youtube.com/@ZeeTeck-k9q
+
+Buy me a Kofie Link: buymeacoffee.com/zeeteck
+
